@@ -4,4 +4,7 @@
  */
 public class SecondCommit {
 
+    public static void main(String[] args) {
+        System.out.println("这是第一次在idea中建git的dev分支");
+    }
 }
